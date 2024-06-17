@@ -13,3 +13,7 @@ It's a demo Readme as I have just started learning Git.
  ## New Section
 
  New section added by another branch
+ 
+ ## Section
+
+ Adding extra section here
