@@ -2,3 +2,7 @@
 
 ** Updating the documentation file **
   Updating the file again ...
+
+
+--- newupdate branch ----
+Updating the file using another branch ...
